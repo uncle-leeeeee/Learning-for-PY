@@ -1,0 +1,1 @@
+some scripts for Python learning in daily life. Enjoy yourself!
